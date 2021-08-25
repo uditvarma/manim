@@ -1,5 +1,5 @@
 # manim
-Animation engine for explanatory math videos
+Animation engine for explanatory mathematics videos
 ## Get Started
 
 ### 1. Create the manim logo
